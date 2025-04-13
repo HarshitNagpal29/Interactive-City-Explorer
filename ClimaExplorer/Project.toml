@@ -1,0 +1,21 @@
+name = "ClimaExplorer"
+uuid = "dd82adb1-bae5-4928-aca3-6e750244af77"
+authors = ["""HarshitNagpal29 <harshitnagpal161@gmail.com'\n>"""]
+version = "0.1.0"
+
+[deps]
+Bonito = "824d6782-a2ef-11e9-3a09-e5662e0c26f8"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
+NCDatasets = "85f8d34a-cbdd-5861-8df4-14fed0d494ab"
+NetCDF = "30363a11-5582-574a-97bb-aa9a979735b9"
+WGLMakie = "276b4fcb-3e11-5398-bf8b-a0c2d153d008"
+Zarr = "0a941bbe-ad1d-11e8-39d9-ab76183a1d99"
+
+[compat]
+Bonito = "4.0.3"
+GLMakie = "0.11.4"
+NCDatasets = "0.14.7"
+WGLMakie = "0.11.3"
+Zarr = "0.9.4"
